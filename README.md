@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Ciao, sono Giorgio
 
-<!--
-**joxDev12/joxDev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Full Stack Web Developer
 
-Here are some ideas to get you started:
+Sono un Junior Full Stack Web Developer con un forte interesse per il backend, la progettazione di API REST, la gestione dei database e la struttura ordinata delle applicazioni web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Su di me
+
+* 🎯 Cerco opportunità come **Junior Full Stack Web Developer**, con particolare interesse per ruoli orientati al backend.
+  
+* 🌐 Portfolio: [www.joxdev.it](https://www.joxdev.it)
+
+---
+
+## 🛠️ Tech Stack
+
+**Linguaggi:** JavaScript · TypeScript · SQL
+
+**Backend:** Node.js · Express.js · REST API · MVC
+
+**Frontend:** React · HTML5 · CSS3
+
+**Database:** PostgreSQL · node-pg-migrate
+
+**Tools:** Git · GitHub · npm · Postman · Visual Studio Code
+
+---
+
+## 🚀 Progetto principale
+
+### LogiChain ERP
+
+Gestionale full stack per la gestione di magazzino, prodotti, giacenze, movimenti stock, ordini, clienti, fornitori e spedizioni.
+
